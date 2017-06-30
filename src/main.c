@@ -1,4 +1,5 @@
 #include "sysinit/sysinit.h"
+#include "testutil/testutil.h"
 
 /**
  * Depending on the type of package, there are different
