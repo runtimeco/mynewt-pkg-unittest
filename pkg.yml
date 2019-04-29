@@ -26,6 +26,5 @@ pkg.keywords:
 
 pkg.deps:
     - "@apache-mynewt-core/test/testutil"
-
-pkg.deps.SELFTEST:
     - "@apache-mynewt-core/sys/console/stub"
+    - "@apache-mynewt-core/sys/log/stub"
